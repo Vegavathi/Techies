@@ -81,9 +81,13 @@ The proposed system is an AI-powered Math Tutor Web Application that can accept 
        The app utilizes Groq's llama3-70b-8192 model to generate accurate and detailed solutions for math problems, simulating a helpful AI tutor.
  - ✅ Text-to-Speech Response Generation
        Every solution generated is converted to speech using pyttsx3, allowing users to hear the answer—enhancing accessibility and ease of use.  
- 
+ - ✅ Database connectivity
+       Every question asked and solution generated is saved in a database which can helpful in future for further training the model.
  Add images, GIFs, or screenshots if helpful!
- 
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/ce12d0ce-af95-4660-8f62-ba1fac3b3943" />
+![image](https://github.com/user-attachments/assets/2253892a-fd65-4090-80e5-f051c15acede)
+![image](https://github.com/user-attachments/assets/c1cb8ee6-380a-48d4-b8b3-41b401c4fd2b)
+
  ---
  
  ## 📽️ Demo & Deliverables
